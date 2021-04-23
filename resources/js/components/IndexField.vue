@@ -2,6 +2,7 @@
   <a
     href
     @click.prevent="onClick"
+    title="Duplicate"
     class="cursor-pointer text-70 hover:text-primary no-underline flex items-center"
   >
     <svg
